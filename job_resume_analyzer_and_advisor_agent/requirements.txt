@@ -1,0 +1,15 @@
+streamlit
+PyPDF2
+nltk
+matplotlib
+seaborn
+pandas
+requests
+scikit-learn
+sentence-transformers
+reportlab
+Pillow
+easyocr
+chardet
+numpy
+filelock
